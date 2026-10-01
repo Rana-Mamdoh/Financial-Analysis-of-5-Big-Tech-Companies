@@ -62,6 +62,16 @@ The full validation checks (no duplicate years, no missing required fields, bala
 1. Run `Financial Data Collection.ipynb` top to bottom. You'll need to put your own name and email in `SEC_USER_AGENT` — the SEC requires this on every request. This builds `companies_annual.csv`.
 2. Run `EDA_.ipynb` top to bottom to reproduce the cleaning, ratios, charts and findings above.
 
+## Some of charts
+
+![CapEx Intensity over time](images/capex_intensity_trend.png)
+
+![FCF Margin over time](images/fcf_margin_trend.png)
+
+![CapEx vs FCF Margin](images/capex_vs_fcf_scatter.png)
+
+![ROE over time](images/roe_apple_outlier.png)
+
 ## Tools
 
 Python, pandas, matplotlib, seaborn, and the SEC EDGAR API.
