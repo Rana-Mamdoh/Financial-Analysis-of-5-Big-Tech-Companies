@@ -66,11 +66,11 @@ The full validation checks (no duplicate years, no missing required fields, bala
 
 ![CapEx Intensity over time](capex_intensity_trend.png)
 
-![FCF Margin over time](images/fcf_margin_trend.png)
+![FCF Margin over time](fcf_margin_trend.png)
 
-![CapEx vs FCF Margin](images/capex_vs_fcf_scatter.png)
+![CapEx vs FCF Margin](capex_vs_fcf_scatter.png)
 
-![ROE over time](images/roe_apple_outlier.png)
+![ROE over time](roe_apple_outlier.png)
 
 ## Tools
 
