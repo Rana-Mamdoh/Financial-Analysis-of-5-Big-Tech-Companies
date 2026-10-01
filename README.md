@@ -53,11 +53,9 @@ The full validation checks (no duplicate years, no missing required fields, bala
 
 ## Things to keep in mind
 
-- This isn't meant to rank the companies against each other — their business models are too different for that to mean much (Amazon's retail margins are naturally thinner than Meta's ad margins, for example). The point is to find a trend across companies with very different businesses, and to see who doesn't follow it (Apple, mainly).
-- Debt doesn't include lease liabilities, so companies that lease a lot of infrastructure (like Microsoft's data centers) probably owe more than the Debt column shows.
-- CapEx is cash CapEx only, so it may understate real infrastructure spending for companies using finance leases.
-- ShortTermInvestments is missing for a handful of company-years (mostly the earliest year for Microsoft, Apple and Meta), likely because the SEC tag used was different in those filings.
-- 2026 figures are the most recent and least double-checked — worth verifying against the actual 10-K before relying on them.
+- This isn't meant to rank the companies — their business models are too different for that to mean much. The point is to find a shared trend and see who doesn't follow it (Apple, mainly).
+- Debt excludes lease liabilities and CapEx is cash-only, so both likely understate real infrastructure spending for some companies.
+- 2026 figures are the most recent and least double-checked — verify against the actual 10-K before relying on them.
 
 ## Running it yourself
 
