@@ -64,7 +64,7 @@ The full validation checks (no duplicate years, no missing required fields, bala
 
 ## Some of charts
 
-![CapEx Intensity over time](images/capex_intensity_trend.png)
+![CapEx Intensity over time](capex_intensity_trend.png)
 
 ![FCF Margin over time](images/fcf_margin_trend.png)
 
