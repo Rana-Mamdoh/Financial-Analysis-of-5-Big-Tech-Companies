@@ -16,7 +16,7 @@ Short answer: yes, but not for everyone. Microsoft's CapEx went from 8% to 35% o
 ├── Financial Data Collection.ipynb   
 ├── EDA_.ipynb                        
 ├── companies_annual.csv            
-└── README.md
+
 ```
 
 ## How the data was collected
